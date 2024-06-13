@@ -27,12 +27,16 @@ I was thinking about our questions given the data we have, how does this look?
 
 1a.How many A, B, C graded restaurants were there in New York City from September 2010-September 2017?
 1b. Is there an association between restaurant type and rating?
+
 2.How many rat sightings were there in New York City from September 2010-September 2017?
 Do certain Boroughs have higher restaurant ratings?
+
 3a. Do certain Zip Codes have higher restaurant ratings?
 Do certain Boroughs have more rat sightings?
+
 4a. Do certain Zip Codes have more rat sightsings?
 Is there a relationship between rats and restaurant ratings?
+
 5a. Do zip codes with more rats have fewer A restaurants?
 5b. Do "high rat" zip codes have more restaurants closed by DOHMH when compared to "low rat" zip codes?
 
